@@ -33,12 +33,14 @@
 ## Results
 - Input ECG waveform (3000 samples).
 ![This is an image](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/figs/detrending.png)
+- 5 level Decomposition of ECG waveform.
 ![This is an image](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/figs/wavelet_thresholding.png)
+- Reconstructed Waveform.
 ![This is an image](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/figs/reconstructed.png)
 
 ## Documentation
 
-//[My Paper for this Code](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/finalReportIPC.pdf)
+[My Paper for this Code](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/finalReportIPC.pdf)
 
 ## Feedback
 
