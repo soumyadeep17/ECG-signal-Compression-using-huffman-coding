@@ -31,14 +31,14 @@
 - [@Soumyadeep17](https://github.com/soumyadeep17/)
 
 ## Results
-
+- Input ECG waveform (3000 samples).
 ![This is an image](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/figs/detrending.png)
 ![This is an image](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/figs/wavelet_thresholding.png)
 ![This is an image](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/figs/reconstructed.png)
 
 ## Documentation
 
-//[My Paper for this Code](https://github.com/soumyadeep17/Improved_Contrast_Zero-DCE/blob/main/IPCV_report_final.pdf)
+//[My Paper for this Code](https://github.com/soumyadeep17/ECG-signal-Compression-using-huffman-coding/blob/main/finalReportIPC.pdf)
 
 ## Feedback
 
